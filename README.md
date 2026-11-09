@@ -2,7 +2,7 @@
 
 # Grupos aleatorios
 
-Este es un programa muy simple que coge un grupo de trece alumnos y los mezcal aleatoriamente en tres grupos de tres y un grupo de cuatro.
+Este es un programa muy simple que coge un grupo de trece alumnos y los mezcla aleatoriamente en tres grupos de tres y un grupo de cuatro.
 
 
 ## Instalación
